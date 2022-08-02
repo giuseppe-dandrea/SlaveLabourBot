@@ -1,5 +1,5 @@
 # SlaveLabourBot
-Telegram bot for r/slavelabour that notifies when a new post is uploaded on slavelabour.
+Telegram bot for `r/slavelabour` that notifies when a new task is uploaded.
 
 ## Secrets
 Before running the bot you must create a file `secrets.py` containing token and keys for telegram/reddit. An example file is provided as `secrets.py.example`.
