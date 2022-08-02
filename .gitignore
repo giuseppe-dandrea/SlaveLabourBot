@@ -1,0 +1,9 @@
+persistent_data
+SlaveLabourBotLog.log
+allowed_users.txt
+secrets.py
+.venv/
+include/
+bin/
+lib/
+__pycache__/

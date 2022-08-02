@@ -1,0 +1,11 @@
+[Unit]
+Description=SlaveLabour Bot systemd service
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/builds/SlaveLabourBot
+ExecStart=/usr/bin/SlaveLabourBot.py
+
+[Install]
+WantedBy=multi-user.target
